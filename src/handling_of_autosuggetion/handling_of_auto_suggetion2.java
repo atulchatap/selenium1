@@ -23,7 +23,7 @@ public class handling_of_auto_suggetion2 {
 		
 		List<WebElement> allresult = driver.findElements(By.xpath("//ul[@class='G43f7e']/li"));
 		
-		String exptext= "one plus 10 pro";
+		String exptext= "oneplus 11";
 		
 		for(WebElement a1:allresult)
 		{
